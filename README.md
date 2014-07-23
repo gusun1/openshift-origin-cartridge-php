@@ -1,4 +1,2 @@
-openshift-origin-cartridge-php
-==============================
-
-openshift-origin-cartridge-php from openshift-origin
+# OpenShift PHP Cartridge
+This cartridge is documented in the [Cartridge Guide](http://openshift.github.io/documentation/oo_cartridge_guide.html#php).
