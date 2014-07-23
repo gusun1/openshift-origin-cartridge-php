@@ -26,7 +26,7 @@ Compatible-Versions:
 - 0.0.15
 - 0.0.16
 Cartridge-Vendor: openshiftqe
-Source-Url: git@github.com:gusun1/openshift-origin-cartridge-php.git
+Source-Url: https://github.com/gusun1/openshift-origin-cartridge-php.git
 Categories:
 - service
 - php
